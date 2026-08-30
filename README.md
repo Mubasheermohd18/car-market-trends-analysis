@@ -37,6 +37,14 @@ car-market-trends-analysis/
 ├── README.md
 ├── car_market_analysis.ipynb
 ├── dataset/
-├── results/
-│   └── img/
+├── Results/
+│   ├── dataset_overview.png
+│   ├── fuel_type_distribution.png
+│   ├── market_segmentation.png
+│   ├── present_vs_selling_price.png
+│   ├── price_correlation.png
+│   ├── average_selling_price_by_year.png
+│   ├── year_vs_selling_price_data.png
+│   ├── selling_price_correlations.png
+│   └── correlation_heatmap.png
 └── presentation/
